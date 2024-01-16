@@ -60,6 +60,10 @@ Click on the **Open** button or use the shortcut ```Ctrl+O``` to open an existin
 
 Click on the **Save As** button or use the shortcut ```Ctrl+S``` to save the current file with a new name. Choose the desired file type from the available options.
 
+## Demo
+
+![jpad](https://github.com/amarquaye/jpad/assets/96346994/5b3b9742-1988-4fef-9bea-0540ce585884)
+
 ## Contributing
 
 If you want to contribute to Jpad, feel free to fork the repository and submit a pull request. Alternatively, if you have suggestions or recommendations, you can also open an issue to discuss and share your ideas. I welcome any improvements or bug fixes.
