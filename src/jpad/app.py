@@ -5,7 +5,6 @@ import toga
 from toga import Key
 from toga.style import Pack
 from toga.style.pack import COLUMN, ROW
-from toga.style.pack import *
 
 
 class Jpad(toga.App):
